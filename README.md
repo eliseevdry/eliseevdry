@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eliseevdry
-- 👀 I’m interested in Java language
+- 👀 I am Java developer
 - 📫 How to reach me: eliseevdry@mail.ru
 
 <!---
