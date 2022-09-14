@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @eliseevdry
 - 👀 I’m interested in Java language
-- 🌱 I’m currently learning in JavaOPs
-- 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me: eliseevdry@mail.ru
 
 <!---
